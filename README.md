@@ -99,6 +99,7 @@ NAMF, Inc
 - Responsible for connecting new workstations to the internet (i.e. wiring the building with Ethernet cables and connecting it to the main switch)
 - Tasked with creating and editing flyers and newsletters with Adobe products, these images were designed to be displayed on the front page of the website 
 - Tasked with video editing for graduation, debates and other events
+
 ------
 
 ### Unique/Side projects:
