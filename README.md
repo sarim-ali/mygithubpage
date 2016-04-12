@@ -18,11 +18,12 @@ Devops and System Administration in a wide variety of business applications. Par
 * Competent in NodeJS, Java, JavaScript, Coffee Script, jQuery, C# and Visual basic 
 * Familiarity with Yeoman, Grunt, AngularJs and SASS/SCSS
 
-#### Skills:
-* Continuous Deployment, Continous Integration, Terraform, Ansible (Jinja2), Chef, Puppet, Haproxy, F5 LTM, ELB,  Relational database management (MySQL & Maria DB, MsSQL), XenCenter 6, Apache, NginX, Tomcat, IIS, Networking (VLANs & Wireless Networks), Nagios, Icinga, and Zabbix,DC management, Git, Mercurial, Ejbca, Dashing, Amazon AWS EC2, Puppet, Hiera,Pfsense, Cloudera Manager, Vagrant, Hadoop, MapReduce and Spark 
-
 #### IDE software/Operating systems/Productivity software:
 * Matlab, Arduino, Eclipse, Netbeans, Aptana Studio 3, DB2, Visual Studio 2008-12, Windows Server (2003, 2008, 2012, 2012 R2) , Apple OSX , UNIX/Linux (RHEL, Amazon Linux, Debian and Ubuntu) 
+
+#### Skills:
+* Continuous Deployment, Continous Integration, Terraform, Ansible (Jinja2), Chef, Puppet, Haproxy, F5 LTM, ELB,  Relational database management (MySQL & Maria DB, MsSQL), XenCenter 6, Apache, NginX, Tomcat, IIS, Networking (VLANs & Wireless Networks), Nagios, Icinga, and Zabbix,DC management, Git, Mercurial, Ejbca, Dashing, Amazon AWS EC2, Puppet, Hiera,Pfsense, Cloudera Manager, Vagrant, Hadoop, MapReduce and Spark
+
 ------
 
 ### Education
