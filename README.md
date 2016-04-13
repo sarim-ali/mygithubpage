@@ -39,7 +39,7 @@ Devops and System Administration in a wide variety of business applications. Par
 
 Shomi Partnership
 : *Devops Engineer*
-  __2015-Present__
+  __Jun 2015-Present__
 - Chef ( Kitchen, Berkshelf, Foodcritic, ServerSpec, Linux and Windows)
 - AWS (CloudFront, RDS, Lambda, Kinesis, CodeDeploy, S3, Route53) 
 - VMware
@@ -54,7 +54,7 @@ Shomi Partnership
 
 eyereturn marketing
 : *System Administrator*
-  __2014-2015__
+  __Mar 2014-Apr 2015__
 - Create a IDS using puppet scripts and deploy across existing systems
 - Assist in a database migration project moving assets from one data center to another
 - Using Amazon EC2 instance as a external interface to check for vulnerabilities in existing systems and for external monitoring
@@ -73,7 +73,7 @@ eyereturn marketing
 
 Thinnox Design Academy
 : *Robotics Instructor & System Administrator*
-  __2014-2015__
+  __Oct 2013-Aug 2015__
 - Deliver professional and educational presentations on a daily basis to students of ages 7-16, and sometimes parents
 - Conduct classes for basic and intermediate level robotics utilizing NXT Mindstorms 2.0 and NXT Mindstorms IDE
 - Create handouts; topics include Artificial Intelligence and Linear Algebra
@@ -85,13 +85,14 @@ Thinnox Design Academy
 
 Future Shop
 : *Mobile Audio - Product Expert*
+  __Apr 2013-Oct 2013__
 - Learn up to date knowledge about Car Audio from websites, forums, peers and formal training sessions and then sell and make $$$
 - Train customers buying new Apple  on how to setup their device on OSX and Windows
 - Provide detailed descriptions of capabilities of Apple products
 
 NAMF, Inc
 :*System Administrator/IT Support*
-
+  __Jun 2014-Jan 2015__
 - Held key responsibility in this small company as I was the only go-to technical representative
 - Responsible for establishing new workstations for each faculty member
 - On call support for all faculty who were new to Windows 7
