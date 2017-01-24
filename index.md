@@ -116,7 +116,7 @@ NAMF, Inc
 ------
 
 ### Unique/Side projects:
-- Built a soccer playing robot and urban search and rescue robot from scratch - [Dropbox Link] (https://www.dropbox.com/sc/9d5h0yp04st00xd/AAD1v7o2OUjNO1UMkfUG2VRxa) (Robot with orange tracked wheels is mine)
+- Built a soccer playing robot and urban search and rescue robot from scratch - [Google Photos Link] (https://goo.gl/photos/bRBuTH6iSqTWUqMd7) (Robot with orange tracked wheels is mine)
 - Built a OpenVPN configuration to VPN to home
 - Automated a stamping job
 
