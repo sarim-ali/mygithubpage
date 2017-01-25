@@ -4,6 +4,7 @@
 - [Download PDF](resume.pdf)  
 - [admin@sarimali.me](https://ca.linkedin.com/in/sarim-ali-32b28b15)  
 - (647)454
+
 ![Certified In](http://sarimali.me/certs.png "VMware Certs")
 ------
 
