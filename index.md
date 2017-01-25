@@ -115,7 +115,7 @@ Technologies: Chef, Kitchen, Berkshelf, Foodcritic, ServerSpec, Linux and Window
 
 ### Unique/Side projects:
 - Built a soccer playing robot and urban search and rescue robot from scratch 
-  [Google Photos Link] (https://goo.gl/photos/bRBuTH6iSqTWUqMd7) (Robot with orange tracked wheels is mine)
+  [Video](https://goo.gl/photos/bRBuTH6iSqTWUqMd7/ "Robot with orange tracked wheels is mine")
 - Built a OpenVPN configuration to VPN to home
 - Automated a stamping job
 
