@@ -1,6 +1,7 @@
 
 # Sarim Ali
-## Devops Engineer 
+## Devops Engineer
+
 - [Download PDF](resume.pdf)  
 - [admin@sarimali.me](https://ca.linkedin.com/in/sarim-ali-32b28b15)  
 - (647)454
