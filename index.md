@@ -46,10 +46,9 @@ Devops and System Administration in a wide variety of business applications. Par
 - AWS
 - Rundeck
 
-Shomi Partnership
-: *Devops Engineer*
-  __Jun 2015-Aug 2016__
-Initial main duties is to set up the physical DC ready for a big public launch, some of my jobs included:
+*Shomi Partnership - Devops Engineer* - __Jun 2015-Aug 2016__
+
+- Initial main duties is to set up the physical DC ready for a big public launch, some of my jobs included:
 - Ensure that the 3rd party payment page integration is top notch in terms of security and compatibility.
 - Used existing SOAP integration. Worked on payment overrides with big gateways like Chase.
 - Became "go-to" specialist of the payment system others felt comfortable coming to me for guidance.
@@ -67,9 +66,8 @@ Post launch duties included:
 
 Technologies: Chef, Kitchen, Berkshelf, Foodcritic, ServerSpec, Linux and Windows, CloudFront, RDS, Lambda, Kinesis, Code Deploy, S3, Route53, VMware, IIS, Teamcity, NodeJS, CentOS, F5 LTM, Newrelic, Datadog, Akamai (LUNA, FastDNS, Caching Rules)
 
-eyereturn marketing
-: *System Administrator*
-  __Mar 2014-Apr 2015__
+*eyereturn marketing - System Administrator* - __Mar 2014-Apr 2015__
+
 - Create a IDS using puppet scripts and deploy across existing systems
 - Assist in a database migration project moving assets from one data center to another
 - Using Amazon EC2 instance as a external interface to check for vulnerabilities in existing systems and for external monitoring
@@ -86,9 +84,8 @@ eyereturn marketing
 - Helped create a brand new DevOps team at eyereturn by leveraging vagrant and puppet to create a dynamic UAT environment
 - Helped network and wire Markham offices
 
-Thinnox Design Academy
-: *Robotics Instructor & System Administrator*
-  __Oct 2013-Aug 2015__
+*Thinnox Design Academy - Robotics Instructor & System Administrator* - __Oct 2013-Aug 2015__
+
 - Deliver professional and educational presentations on a daily basis to students of ages 7-16, and sometimes parents
 - Conduct classes for basic and intermediate level robotics utilizing NXT Mindstorms 2.0 and NXT Mindstorms IDE
 - Create handouts; topics include Artificial Intelligence and Linear Algebra
@@ -98,16 +95,14 @@ Thinnox Design Academy
 - Suggest upgrading from Windows Vista and several other optimizations
 - Maintain all hardware in the whole facility and upgrade if necessary
 
-Future Shop
-: *Mobile Audio - Product Expert*
-  __Apr 2013-Oct 2013__
+*Future Shop - Mobile Audio - Product Expert* - __Apr 2013-Oct 2013__
+
 - Learn up to date knowledge about Car Audio from websites, forums, peers and formal training sessions and then sell and make $$$
 - Train customers buying new Apple  on how to setup their device on OSX and Windows
 - Provide detailed descriptions of capabilities of Apple products
 
-NAMF, Inc
-:*System Administrator/IT Support*
-  __Jun 2010-Jan 2011__
+*NAMF, Inc - System Administrator/IT Support* - __Jun 2010-Jan 2011__
+
 - Held key responsibility in this small company as I was the only go-to technical representative
 - Responsible for establishing new workstations for each faculty member
 - On call support for all faculty who were new to Windows 7
