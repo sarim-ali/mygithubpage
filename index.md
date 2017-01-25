@@ -1,9 +1,12 @@
 
 # Sarim Ali
-## Devops Engineer 
-> [Download PDF](resume.pdf)  
-> [admin@sarimali.me](https://ca.linkedin.com/in/sarim-ali-32b28b15)  
-> (647)454
+
+## Devops Engineer
+
+- [Download PDF](resume.pdf)  
+- [admin@sarimali.me](https://ca.linkedin.com/in/sarim-ali-32b28b15)  
+- (647)454
+
 ![Certified In](http://sarimali.me/certs.png "VMware Certs")
 ------
 
@@ -27,6 +30,7 @@ Devops and System Administration in a wide variety of business applications. Par
 ------
 
 ### Education
+
 #### Bachelor’s Degree Computer Science (BSc.)
  > Ryerson University, Toronto, ON
 
@@ -36,23 +40,26 @@ Devops and System Administration in a wide variety of business applications. Par
 ------
 
 ### Experience
-FanXchange
-: *Devops Engineer*
-  __Aug 2016-Present__
-- Ansible
-- AWS
-- Rundeck
+*FanXchange - Devops Engineer* - __Aug 2016-Present__
+  
+- New skills attained in AWS: ['SES', 'SQS', 'Cloudformation'] 
+- Performed DevOps for Centos Mac and Windows platforms
+- Automation with ansible and vagrant
+- Focused on continous integration with jenkins/rundeck and Fabric
+- Spearheaded monitoring effort with datadog 
+- Spearheaded office move and setup wifi meshed network and firewall setup optimized for cost
+- Spearheaded jenkins migration
+- Daily activities include demo environment creation, user support, application support, server support, deployment support and optimization of aformentioned tasks
 
-Shomi Partnership
-: *Devops Engineer*
-  __Jun 2015-Aug 2016__
-Initial main duties is to set up the physical DC ready for a big public launch, some of my jobs included:
-- Ensure that the 3rd party payment page integration is top notch in terms of security and compatibility.
-- Used existing SOAP integration. Worked on payment overrides with big gateways like Chase.
-- Became "go-to" specialist of the payment system others felt comfortable coming to me for guidance.
-- Used chef to install logging (sumologic) and app  monitoring(newrelic)
-- For automation of windows deployments using only chef, code deploy and Teamcity
-- For automation of NodeJS using only chef, code deploy and Teamcity
+*Shomi Partnership - Devops Engineer* - __Jun 2015-Aug 2016__
+
+- Initial main duties is to set up the physical DC ready for a big public launch, some of my jobs included:
+ - Ensure that the 3rd party payment page integration is top notch in terms of security and compatibility.
+ - Used existing SOAP integration. Worked on payment overrides with big gateways like Chase.
+ - Became "go-to" specialist of the payment system others felt comfortable coming to me for guidance.
+ - Used chef to install logging (sumologic) and app  monitoring(newrelic)
+ - For automation of windows deployments using only chef, code deploy and Teamcity
+ - For automation of NodeJS using only chef, code deploy and Teamcity
 
 Post launch duties included:
 - Moved our DC to the AWS cloud
@@ -64,9 +71,8 @@ Post launch duties included:
 
 Technologies: Chef, Kitchen, Berkshelf, Foodcritic, ServerSpec, Linux and Windows, CloudFront, RDS, Lambda, Kinesis, Code Deploy, S3, Route53, VMware, IIS, Teamcity, NodeJS, CentOS, F5 LTM, Newrelic, Datadog, Akamai (LUNA, FastDNS, Caching Rules)
 
-eyereturn marketing
-: *System Administrator*
-  __Mar 2014-Apr 2015__
+*eyereturn marketing - System Administrator* - __Mar 2014-Apr 2015__
+
 - Create a IDS using puppet scripts and deploy across existing systems
 - Assist in a database migration project moving assets from one data center to another
 - Using Amazon EC2 instance as a external interface to check for vulnerabilities in existing systems and for external monitoring
@@ -83,9 +89,8 @@ eyereturn marketing
 - Helped create a brand new DevOps team at eyereturn by leveraging vagrant and puppet to create a dynamic UAT environment
 - Helped network and wire Markham offices
 
-Thinnox Design Academy
-: *Robotics Instructor & System Administrator*
-  __Oct 2013-Aug 2015__
+*Thinnox Design Academy - Robotics Instructor & System Administrator* - __Oct 2013-Aug 2015__
+
 - Deliver professional and educational presentations on a daily basis to students of ages 7-16, and sometimes parents
 - Conduct classes for basic and intermediate level robotics utilizing NXT Mindstorms 2.0 and NXT Mindstorms IDE
 - Create handouts; topics include Artificial Intelligence and Linear Algebra
@@ -95,16 +100,14 @@ Thinnox Design Academy
 - Suggest upgrading from Windows Vista and several other optimizations
 - Maintain all hardware in the whole facility and upgrade if necessary
 
-Future Shop
-: *Mobile Audio - Product Expert*
-  __Apr 2013-Oct 2013__
+*Future Shop - Mobile Audio - Product Expert* - __Apr 2013-Oct 2013__
+
 - Learn up to date knowledge about Car Audio from websites, forums, peers and formal training sessions and then sell and make $$$
 - Train customers buying new Apple  on how to setup their device on OSX and Windows
 - Provide detailed descriptions of capabilities of Apple products
 
-NAMF, Inc
-:*System Administrator/IT Support*
-  __Jun 2010-Jan 2011__
+*NAMF, Inc - System Administrator/IT Support* - __Jun 2010-Jan 2011__
+
 - Held key responsibility in this small company as I was the only go-to technical representative
 - Responsible for establishing new workstations for each faculty member
 - On call support for all faculty who were new to Windows 7
@@ -116,7 +119,8 @@ NAMF, Inc
 ------
 
 ### Unique/Side projects:
-- Built a soccer playing robot and urban search and rescue robot from scratch - [Google Photos Link] (https://goo.gl/photos/bRBuTH6iSqTWUqMd7) (Robot with orange tracked wheels is mine)
+- Built a soccer playing robot and urban search and rescue robot from scratch 
+  [Video](https://goo.gl/photos/dHMK8Xim62EoCUfB8 "Robot with orange tracked wheels is mine")
 - Built a OpenVPN configuration to VPN to home
 - Automated a stamping job
 
