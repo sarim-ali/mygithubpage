@@ -1,4 +1,3 @@
-
 # Sarim Ali
 
 ## Devops Engineer
@@ -42,19 +41,24 @@ Devops and System Administration in a wide variety of business applications. Par
 ### Experience
 *FanXchange - Devops Engineer* - __Aug 2016-Present__
   
-- Ansible
-- AWS
-- Rundeck
+- New skills attained in AWS: ['SES', 'SQS', 'Cloudformation'] 
+- Performed DevOps for Centos Mac and Windows platforms
+- Automation with ansible and vagrant
+- Focused on continous integration with jenkins/rundeck and Fabric
+- Spearheaded monitoring effort with datadog 
+- Spearheaded office move and setup wifi meshed network and firewall setup optimized for cost
+- Spearheaded jenkins migration
+- Daily activities include demo environment creation, user support, application support, server support, deployment support and optimization of aformentioned tasks
 
 *Shomi Partnership - Devops Engineer* - __Jun 2015-Aug 2016__
 
 - Initial main duties is to set up the physical DC ready for a big public launch, some of my jobs included:
-- Ensure that the 3rd party payment page integration is top notch in terms of security and compatibility.
-- Used existing SOAP integration. Worked on payment overrides with big gateways like Chase.
-- Became "go-to" specialist of the payment system others felt comfortable coming to me for guidance.
-- Used chef to install logging (sumologic) and app  monitoring(newrelic)
-- For automation of windows deployments using only chef, code deploy and Teamcity
-- For automation of NodeJS using only chef, code deploy and Teamcity
+ - Ensure that the 3rd party payment page integration is top notch in terms of security and compatibility.
+ - Used existing SOAP integration. Worked on payment overrides with big gateways like Chase.
+ - Became "go-to" specialist of the payment system others felt comfortable coming to me for guidance.
+ - Used chef to install logging (sumologic) and app  monitoring(newrelic)
+ - For automation of windows deployments using only chef, code deploy and Teamcity
+ - For automation of NodeJS using only chef, code deploy and Teamcity
 
 Post launch duties included:
 - Moved our DC to the AWS cloud
