@@ -31,7 +31,7 @@ Devops and System Administration in a wide variety of business applications. Par
 
 ### Education
 
-#### Bachelor’s Degree Computer Science (BSc.
+#### Bachelor’s Degree Computer Science (BSc.)
  > Ryerson University, Toronto, ON
 
 #### Ontario Secondary School Diploma (OSSD)
