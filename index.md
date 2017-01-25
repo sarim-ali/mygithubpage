@@ -41,6 +41,7 @@ Devops and System Administration in a wide variety of business applications. Par
 
 ### Experience
 FanXchange
+
 *Devops Engineer*
 __Aug 2016-Present__
   
