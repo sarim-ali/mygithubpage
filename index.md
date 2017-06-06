@@ -42,14 +42,14 @@ Devops and System Administration in a wide variety of business applications. Par
 ### Experience
 *FanXchange - Devops Engineer* - __Aug 2016-Present__
   
-- New skills attained in AWS: ['SES', 'SQS', 'Cloudformation'] 
-- Performed DevOps for Centos Mac and Windows platforms
-- Automation with ansible and vagrant
-- Focused on continous integration with jenkins/rundeck and Fabric
-- Spearheaded monitoring effort with datadog 
+- New skills attained in AWS: ['SES', 'SQS', 'Cloudformation', 'Elasticache', 'ELBv2 / ALB'] 
+- Empowered teams with a fully automated self creating and destroying environment using Terraform, Ansible and Jenkins
+- Empowered dev teams with local development environments in Vagrant
+- Optimized build job and managed CI with move to jenkins 2.0 using integrations like jira, github, and jenkinsfiles
+- Implemeted comprehensive monitoring overhaul effort with datadog automated via Ansible
 - Spearheaded office move and setup wifi meshed network and firewall setup optimized for cost
-- Spearheaded jenkins migration
-- Daily activities include demo environment creation, user support, application support, server support, deployment support and optimization of aformentioned tasks
+- Worked closely with finance teams to reduce cost
+- Made hardware purchaces and architecture reccomendations 
 
 *Shomi Partnership - Devops Engineer* - __Jun 2015-Aug 2016__
 
